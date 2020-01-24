@@ -25,4 +25,4 @@ You can add Tshirts by going http://127.0.0.1:8000/additem , but you will need a
 Then you can view cart, and order by cod .
 
 
-You can view site at coolbinary.pythonanywhere.com
+You can view site at https://coolbinary.pythonanywhere.com/
