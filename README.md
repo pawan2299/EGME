@@ -15,6 +15,7 @@ $ pip3 install -r requirements.txt
 $ source venv/bin/activate
 
 $ cd shop
+
 $ python3 manage.py runserver
 
 Then open http://127.0.0.1:8000/
