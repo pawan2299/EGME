@@ -7,15 +7,15 @@ Go to the directory of the code, and open the folder EGME-master
 
 Follow the steps:-
 
-cd EGME_master
+$ cd EGME_master
 
-pip3 install -r requirements.txt  
+$ pip3 install -r requirements.txt  
 (or do a sudo , if above doesn't work)
 
-cd source venv/bin/activate
+$ source venv/bin/activate
 
-cd shop
-python3 manage.py runserver
+$ cd shop
+$ python3 manage.py runserver
 
 Then open http://127.0.0.1:8000/
 
