@@ -7,7 +7,7 @@ Go to the directory of the code, and open the folder EGME-master
 
 Follow the steps:-
 
-$ cd EGME_master
+$ cd EGME
 
 $ pip3 install -r requirements.txt  
 (or do a sudo , if above doesn't work)
@@ -30,4 +30,4 @@ You can add Tshirts by going http://127.0.0.1:8000/additem , but you will need a
 Then you can view cart, and order by cod .
 
 
-You can view site at https://shopping.pythonanywhere.com/
+You can view site live at https://shopping.pythonanywhere.com/
