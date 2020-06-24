@@ -1,4 +1,8 @@
 # EGME
+
+# DJANGO SHOPPING WEBSITE
+
+
 A complete shopping website , using django , html , css , made under Codebinary Initiative , where you can buy Tshirts .
 
 Download/clone the code
