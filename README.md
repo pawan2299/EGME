@@ -32,6 +32,3 @@ Add address to continue to the Tshirts section ,then select sizes to view Tshirt
 
 You can add Tshirts by going http://127.0.0.1:8000/additem , but you will need admin rights to do it , so first create a superuser .
 Then you can view cart, and order by cod .
-
-
-You can view site live at https://egme.pythonanywhere.com/
