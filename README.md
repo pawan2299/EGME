@@ -22,7 +22,7 @@ $ cd shop
 
 $ python3 manage.py runserver
 
-Then open http://127.0.0.1:8000/  ( You might face some email SMTP error, that's because the email login details in the setttings.py se outdated, you can change the email and password for your use )
+Then open http://127.0.0.1:8000/  ( You might face some email SMTP error, that's because the email login details in the setttings.py is outdated, you can change the email and password for your own use. )
 
 First of all create an account , *then login* ( YOU HAVE TO BE LOGGED IN TO VIEW SHOP PAGE ), then you will be redirected to add address page. 
  
